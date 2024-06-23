@@ -1,0 +1,8 @@
+.menu{
+    .menu {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: #a89de2
+      }
+}
